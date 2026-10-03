@@ -3,7 +3,7 @@
 Proyecto Módulo 2: Conversor de Monedas  
 Eva Maria Yared Fox Gomez  
 Número de control: 26491034  
-1 de octubre de 2026  
+2 de octubre de 2026  
 
 El programa debe:  
 
