@@ -23,4 +23,4 @@ Como hacer que mi conversion de pesos a dolares se muestren solo dos decimales d
 Respuesta  
 Si quieres que el resultado de la conversión aparezca con solamente dos decimales, debes colocar :.2f dentro del f-string.  
   
-Presentación:
+Presentación: https://www.youtube.com/watch?v=j2U4ykv151E
